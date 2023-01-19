@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Script MT Std';
+    src: url('ScriptMTStd-Bold.eot');
+    src: local('Script MT Std Bold'), local('ScriptMTStd-Bold'),
+        url('ScriptMTStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ScriptMTStd-Bold.woff2') format('woff2'),
+        url('ScriptMTStd-Bold.woff') format('woff'),
+        url('ScriptMTStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
